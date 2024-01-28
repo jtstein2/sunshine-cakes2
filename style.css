@@ -1,0 +1,21 @@
+.jumbotron{
+    display: flex;
+    justify-content: center;
+    max-width: 100%;
+}
+.its-me{
+    border-radius: 50%;
+}
+
+h1{
+    font-family: 'Kalam', cursive;
+    color: #EB689C !important;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+}
+.btn{
+    font-family: 'Kalam', cursive;
+    color: #4CA59C;
+    border-color: #4CA59C;
+}
